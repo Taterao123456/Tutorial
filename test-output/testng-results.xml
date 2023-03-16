@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-21T19:55:43 IST" name="Default suite" finished-at="2023-02-21T19:55:53 IST" duration-ms="9604">
+    <groups>
+    </groups>
+    <test started-at="2023-02-21T19:55:43 IST" name="Default test" finished-at="2023-02-21T19:55:53 IST" duration-ms="9604">
+      <class name="TestLayer.RegisterPageTest">
+        <test-method signature="openABrowser()[pri:1, instance:TestLayer.RegisterPageTest@14555e0a]" started-at="2023-02-21T19:55:43 IST" name="openABrowser" finished-at="2023-02-21T19:55:51 IST" duration-ms="8014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openABrowser -->
+        <test-method signature="validateContactInformation()[pri:2, instance:TestLayer.RegisterPageTest@14555e0a]" started-at="2023-02-21T19:55:52 IST" name="validateContactInformation" finished-at="2023-02-21T19:55:53 IST" duration-ms="1471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactInformation -->
+      </class> <!-- TestLayer.RegisterPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
